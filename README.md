@@ -1,6 +1,6 @@
 ## About
 
-This is the English version of our diploma. The work has been created by Mi Primer Bitcoin / My First Bitcoin and is made freely available to the public.
+The Bitcoin Diploma has been created by Mi Primer Bitcoin / My First Bitcoin and is made freely available to the public.
 
 # BitcoinDiploma-KoreanVersion
 This is the version of our diploma in Korean
