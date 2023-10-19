@@ -45,4 +45,3 @@ This is the version of our diploma in German
 # Diplomado_v3.0
 Diplomado v 3.0
 Esta es la version 3.0 de el Libro de el Diplomado en Bitcoin impartido por Mi Primer Bitcoin en El Salvador
-Bitcoin/ My First Bitcoin ha creado este trabajo y lo ha hecho disponible gratuitamente bajo Creative Commons. Este trabajo tiene licencia de Reconocimiento-No comercial-Sin obras derivadas 4.0 Internacional.
