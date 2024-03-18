@@ -1,7 +1,12 @@
 ## Bitcoin Diploma versions as PDF Files
 #v3.0
 - [English - English - V 3.0 - Bitcoin Diploma.pdf]
+# Bitcoin Diploma versions
+## Release PDF Files/v3.0
 - [Spanish - V 3.0 - Bitcoin Diploma.pdf]
+## Release PDF Files/2023
+- [Spanish Bitcoin - Sept. 2023.pdf]
+
 
 #2023 
 - [English - MFB 2023 Release.pdf]
@@ -20,3 +25,6 @@ Bitcoin/ My First Bitcoin ha creado este trabajo y lo ha hecho disponible gratui
 # Mi Primer Bitcoin/ My First Bitcoin 
 ## [Bitcoin Diploma - English Version](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/4503a065e19eae5e38f018f3e8cdb5077fcba9fa/My%20First%20Bitcoin%20-%20Student%20Workbook%20(V2023)_spreads_Final_Optimizer.pdf)
 
+# Diplomado_v3.0
+Diplomado v 3.0
+Esta es la version 3.0 de el Libro de el Diplomado en Bitcoin impartido por Mi Primer Bitcoin en El Salvador
