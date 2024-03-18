@@ -26,7 +26,6 @@ Download from Releases Page: https://github.com/tlindi/Bitcoin-diplomi/releases
 - [English - MFB 2023 Release.pdf]
 - [Spanish Bitcoin - Sept. 2023.pdf]
 
-
 # BitcoinDiploma-KoreanVersion
 This is the version of our diploma in Korean
 
