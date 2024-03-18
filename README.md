@@ -17,6 +17,16 @@ Download from Releases Page: https://github.com/tlindi/Bitcoin-diplomi/releases
 - [Deutch - de_DE]
 -- Based onto MiPremierBitcoin 3rd edition from 2022 September
 
+## Bitcoin Diploma versions as PDF Files
+#v3.0
+- [English - English - V 3.0 - Bitcoin Diploma.pdf]
+- [Spanish - V 3.0 - Bitcoin Diploma.pdf]
+
+#2023 
+- [English - MFB 2023 Release.pdf]
+- [Spanish Bitcoin - Sept. 2023.pdf]
+
+
 # BitcoinDiploma-KoreanVersion
 This is the version of our diploma in Korean
 
