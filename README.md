@@ -6,7 +6,7 @@
 - [Spanish - V 3.0 - Bitcoin Diploma.pdf]
 ## Release PDF Files/2023
 - [Spanish Bitcoin - Sept. 2023.pdf]
-
+- [Spanish - V 3.0 - Bitcoin Diploma.pdf]
 
 #2023 
 - [English - MFB 2023 Release.pdf]
