@@ -23,4 +23,3 @@ This means you are free to:
 ## Future Licensing Change
 
 It is expected that the book will be released under a more permissive CC-BY-SA license within a year of publication (i.e., Jan 2023). At that time, we will provide a Transifex project for volunteer translations, and it will be allowed to produce and share PDF or other ebook versions of the book.
-
