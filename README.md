@@ -1,21 +1,18 @@
-## Bitcoin Diploma versions as PDF Files
-#v3.0
-- [English - English - V 3.0 - Bitcoin Diploma.pdf]
-# Bitcoin Diploma versions
-## Release PDF Files/v3.0
-- [Spanish - V 3.0 - Bitcoin Diploma.pdf]
-## Release PDF Files/2023
-- [Spanish Bitcoin - Sept. 2023.pdf]
-- [Spanish - V 3.0 - Bitcoin Diploma.pdf]
-
-#2023 
-- [English - MFB 2023 Release.pdf]
-
 ## About
 
 Mi Primer Bitcoin/ My First Bitcoin has created this work and has made it freely available under Creative Commons. This work is licensed under Attribution--ShareAlike 4.0 International Mi Primer 
 
-Bitcoin/ My First Bitcoin ha creado este trabajo y lo ha hecho disponible gratuitamente bajo Creative Commons. Este trabajo tiene licencia de Reconocimiento-No comercial-Sin obras derivadas 4.0 Internacional.
+# Bitcoin Diploma versions as PDF Files
+## v3.0
+- [English - English - V 3.0 - Bitcoin Diploma.pdf]
+- [Korean - Korean - V 3.0 - Bitcoin Diploma.pdf)
+- [Spanish - V 3.0 - Bitcoin Diploma.pdf]
+## 2023
+- [English - MFB 2023 Release.pdf]
+- [Spanish Bitcoin - Sept. 2023.pdf]
+#
+
+
 
 # BitcoinDiploma-KoreanVersion
 This is the version of our diploma in Korean
@@ -26,3 +23,4 @@ This is the version of our diploma in Korean
 # Diplomado_v3.0
 Diplomado v 3.0
 Esta es la version 3.0 de el Libro de el Diplomado en Bitcoin impartido por Mi Primer Bitcoin en El Salvador
+Bitcoin/ My First Bitcoin ha creado este trabajo y lo ha hecho disponible gratuitamente bajo Creative Commons. Este trabajo tiene licencia de Reconocimiento-No comercial-Sin obras derivadas 4.0 Internacional.
