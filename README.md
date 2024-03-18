@@ -7,6 +7,9 @@ Mi Primer Bitcoin/ My First Bitcoin has created this work and has made it freely
 
 The Bitcoin Diploma has been created by Mi Primer Bitcoin / My First Bitcoin and is made freely available to the public.
 
+# Download
+Download from Releases Page: https://github.com/tlindi/Bitcoin-diplomi/releases
+
 # Bitcoin Diploma versions
 ## v3.0
 - [English - English - V 3.0 - Bitcoin Diploma.pdf]
@@ -18,7 +21,6 @@ The Bitcoin Diploma has been created by Mi Primer Bitcoin / My First Bitcoin and
 ## v1.01
 - [Deutch - de_DE]
 -- Based onto MiPremierBitcoin 3rd edition from 2022 September
-
 
 
 # BitcoinDiploma-KoreanVersion
