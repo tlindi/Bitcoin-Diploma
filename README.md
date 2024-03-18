@@ -17,14 +17,21 @@ Mi Primer Bitcoin/ My First Bitcoin has created this work and has made it freely
 # Download
 Download from Releases Page: https://github.com/tlindi/Bitcoin-diplomi/releases
 
-## Bitcoin Diploma versions as PDF Files
-#v3.0
+# Download
+Download from Releases Page: https://github.com/tlindi/Bitcoin-diplomi/releases
+
+# Bitcoin Diploma versions
+## v3.0
 - [English - English - V 3.0 - Bitcoin Diploma.pdf]
 - [Spanish - V 3.0 - Bitcoin Diploma.pdf]
 
 #2023 
 - [English - MFB 2023 Release.pdf]
 - [Spanish Bitcoin - Sept. 2023.pdf]
+- [Spanish - Sept. 2023.pdf]
+## v1.01
+- [Deutch - de_DE]
+-- Based onto MiPremierBitcoin 3rd edition from 2022 September
 
 # BitcoinDiploma-KoreanVersion
 This is the version of our diploma in Korean
