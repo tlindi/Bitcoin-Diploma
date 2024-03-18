@@ -3,15 +3,21 @@
 Mi Primer Bitcoin/ My First Bitcoin has created this work and has made it freely available under Creative Commons. This work is licensed under Attribution--ShareAlike 4.0 International Mi Primer 
 
 # Bitcoin Diploma versions as PDF Files
+## About
+
+The Bitcoin Diploma has been created by Mi Primer Bitcoin / My First Bitcoin and is made freely available to the public.
+
+# Bitcoin Diploma versions
 ## v3.0
 - [English - English - V 3.0 - Bitcoin Diploma.pdf]
 - [Korean - Korean - V 3.0 - Bitcoin Diploma.pdf)
 - [Spanish - V 3.0 - Bitcoin Diploma.pdf]
 ## 2023
 - [English - MFB 2023 Release.pdf]
-- [Spanish Bitcoin - Sept. 2023.pdf]
-## v1.0 
-- [German German - V 1.01 - Bitcoin Diploma.pdf)
+- [Spanish - Sept. 2023.pdf]
+## v1.01
+- [Deutch - de_DE]
+-- Based onto MiPremierBitcoin 3rd edition from 2022 September
 
 
 
