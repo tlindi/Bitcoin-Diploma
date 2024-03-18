@@ -1,18 +1,10 @@
-# Bitcoin Diploma
-# Version 3.0: 
-- [Spanish](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/Spanish%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf)
-- [Korean](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/Korean%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf)
-# Version 1.0: 
-- [German](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/54e5876af943bfa4d70553854e3a4154986068ed/German%20-%20V%201.0%20-%20Bitcoin%20Diploma.pdf)
-
-## Bitcoin Diploma versions
-# Release PDF Files
-v3.0
+## Bitcoin Diploma versions as PDF Files
+#v3.0
+- [English - English - V 3.0 - Bitcoin Diploma.pdf]
 - [Spanish - V 3.0 - Bitcoin Diploma.pdf]
 
-2023 
+#2023 
 - [English - MFB 2023 Release.pdf]
-- [English - English - V 3.0 - Bitcoin Diploma.pdf]
 
 ## About
 
