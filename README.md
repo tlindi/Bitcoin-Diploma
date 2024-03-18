@@ -10,7 +10,8 @@ Mi Primer Bitcoin/ My First Bitcoin has created this work and has made it freely
 ## 2023
 - [English - MFB 2023 Release.pdf]
 - [Spanish Bitcoin - Sept. 2023.pdf]
-# Test
+## v1.0 
+- [German German - V 1.01 - Bitcoin Diploma.pdf)
 
 
 
