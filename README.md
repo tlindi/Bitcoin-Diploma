@@ -17,6 +17,9 @@ Download from Releases Page: https://github.com/tlindi/Bitcoin-diplomi/releases
 - [Deutch - de_DE]
 -- Based onto MiPremierBitcoin 3rd edition from 2022 September
 
+# Suomi fi_FI
+This is the version of our diploma in Finnish.
+
 # BitcoinDiploma-KoreanVersion
 This is the version of our diploma in Korean
 

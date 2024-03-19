@@ -1,0 +1,2 @@
+## About 
+# Tämä on MyFirstBitcoin tekemän 10 viikkoisen koulutusohjelman pohjalta tehty suomennos. Vastaavia on käytössä ympäri maailman. Koulutus syväluotaa Bitcoin historian, teknologian ja globaalit vaikutukset.
